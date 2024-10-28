@@ -1,0 +1,34 @@
+**************************************************************************
+******             Dati per tabella Paziente              ****************
+**************************************************************************
+
+RSSMRA85M01H501Z, Mario, Rossi, M
+BNCLGI90F45H501Q, Luigi, Bianchi, M
+VRDGLL92F50H501P, Giulia, Verdi, F
+NRNANN95M60H501R, Anna, Neri, F
+GLLMRC87M23H501S, Marco, Gialli, M
+PSDFRN85M01H501T, Francesco, Pisani, M
+LCAVNC90F45H501U, Valentina, Licausi, F
+DMTRLU92F50H501V, Lucrezia, Di Martino, F
+SRNCHN95M60H501W, Nathan, Sorrentino, M
+GNGNCM87M23H501X, Matteo, Gennaro, M
+VNTMRA80A01H501Y, Maria, Venturi, F
+RSSFBA75L01H501Z, Fabio, Rossi, M
+BNCLMR60M01D612W, Mauro, Bianchi, M
+VRDFLB90C01F205V, Filippo, Verdi, M
+RSSCST85M01H501X, Cristina, Rossi, F
+BNCFRC70L01D612Y, Franco, Bianchi, M
+VRDGNN60C01F205W, Gianna, Verdi, F
+RSSFNC75M01H501T, Francesca, Rossi, F
+BNCLRA80M01D612U, Lara, Bianchi, F
+VRDCPP85C01F205R, Pietro, Verdi, M
+RSSLGI80M01H501P, Luigi, Rossi, M
+BNCMRA65M01D612S, Marina, Bianchi, F
+VRDMRL90C01F205Q, Marcello, Verdi, M
+RSSFBR85M01H501N, Barbara, Rossi, F
+BNCCRL70L01D612O, Carlo, Bianchi, M
+VRDGLP60C01F205M, Giuliano, Verdi, M
+RSSCMN75M01H501L, Carmine, Rossi, M
+BNCMRT80M01D612K, Marta, Bianchi, F
+VRDPLL85C01F205J, Paolo, Verdi, M
+RSSLMR90M01H501H, Lorenzo, Rossi, M
